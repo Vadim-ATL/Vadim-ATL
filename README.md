@@ -1,6 +1,6 @@
 ### Hi there, I'm Vadim Atlassov!
 
-### About Me
+## About Me
 I'm a deep learning researcher with 1.5 years of experience in deep learning and computer vision applications in object detection. 
 
 I'm passionate about developing deep learning  applications (object detection and segmentation) for the biological/medical imaging domain.
