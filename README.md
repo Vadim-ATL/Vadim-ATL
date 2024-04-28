@@ -1,20 +1,15 @@
 ### Hi there, I'm Vadim Atlassov!
 
-👨‍💻 **I'm currently working on** 
-- Improving SAM (segmentation) models for 3D CV healthcare domain
-- Browser extension using open-source LLMs for fast email generation
+### About Me
+I'm a deep learning researcher with 1.5 years of experience in deep learning and computer vision applications in object detection. 
 
-🌱 **I’m currently learning** 3D CV models, Java Spring Boot/React for FullStack website applications
+I'm passionate about developing deep learning  applications (object detection and segmentation) for the biological/medical imaging domain.
 
 💬 **Ask me about** deep learning, computer vision, and the innovative applications of DL and medical imaging.
 
 📫 **How to reach me:** vadim.atlassov@nu.edu.kz
 
-### 🚀 About Me
-I'm a deep learning researcher with 1.5 years of experience specializing in deep learning and computer vision applications in object detection. I'm passionate about creating and enhancing interactive digital experiences, focusing on computer vision applications in object detection and segmentation for the biological/medical imaging domain.
-
 - **Areas of Expertise:** Deep Learning, Computer Vision, Object detection and localization: YOLO, R-CNN segmentation, GANs, CNNs
-
 
 ### 🎓 Education
 -  M.Sc. in Electrical and Computer Engineering, Nazarbayev University, May 2023
@@ -49,6 +44,11 @@ I'm a deep learning researcher with 1.5 years of experience specializing in deep
   - Evaluated models using quantitative metrics (FID and IS score)
   - Improved FID score and generated synthetic dataset for further research
 
-
 ### 🤝 Connect with Me
 - [LinkedIn](www.linkedin.com/in/vadim-atlassov)
+
+👨‍💻 **I'm currently working on** 
+- Improving SAM (segmentation) models for 3D CV healthcare domain
+- Browser extension using open-source LLMs for fast email generation
+
+🌱 **I’m currently learning** 3D CV models, Java Spring Boot/React for FullStack website applications
