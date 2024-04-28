@@ -1,4 +1,4 @@
-### Hi there, I'm Vadim Atlassov!
+# Hi there, I'm Vadim Atlassov!
 
 ## About Me
 I'm a deep learning researcher with 1.5 years of experience in deep learning and computer vision applications in object detection. 
