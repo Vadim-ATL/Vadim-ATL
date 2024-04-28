@@ -23,7 +23,7 @@ I'm a deep learning researcher with 1.5 years of experience specializing in deep
 ## Research Experience
 
 ### Research Assistant | July 2022 - May 2023
-- [ALARIS Lab](https://www.alaris.kz], School of Engineering and Digital Sciences, NU Astana, Kazakhstan
+- [ALARIS Lab](https://www.alaris.kz/], School of Engineering and Digital Sciences, NU Astana, Kazakhstan
 - Assisted Professor Almas Shintemirov with deep learning and computer vision applications in robot arm UR-5:
   - Developed a DNN model for manipulation of the robot arm in 3D Space
   - Adapted model with image-based visual servoing optimization algorithm using Euclidean distance
