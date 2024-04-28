@@ -20,9 +20,5 @@ I'm a deep learning researcher with 1.5 years of experience specializing in deep
 - **Tools**: Docker, Kubernetes, Jenkins
 - **Others**: Git
 
-
-### 📈 GitHub Stats
-![YourName's github stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ### 🤝 Connect with Me
 - [LinkedIn](www.linkedin.com/in/vadim-atlassov)
