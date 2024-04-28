@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Vadim Atlassov!
+### Hi there, I'm Vadim Atlassov!
 
 👨‍💻 **I'm currently working on** 
 - Improving SAM (segmentation) models for 3D CV healthcare domain
