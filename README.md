@@ -17,18 +17,17 @@ I'm a deep learning researcher with 1.5 years of experience specializing in deep
 -  M.Sc. in Electrical and Computer Engineering, Nazarbayev University, May 2023
   - GPA: 3.21/4.00
   - Thesis: Training Deep Neural Networks for Visual Servoing
-  - Committee: Almas Shintemirov (Chair), Berdakh Abibullaev, Anh Tu Nguyen
 
-- 🌍 Exchange Year: B.Eng. in Electrical Engineering, Brno University of Technology, Czech Republic
+- 🌍 Academic exchange Year: B.Eng. in Electrical Engineering, Brno University of Technology, Czech Republic
 
 ## Research Experience
 
 ### Research Assistant | July 2022 - May 2023
-- ALARIS Lab, School of Engineering and Digital Sciences, NU Astana, Kazakhstan
+- [ALARIS Lab](https://www.alaris.kz], School of Engineering and Digital Sciences, NU Astana, Kazakhstan
 - Assisted Professor Almas Shintemirov with deep learning and computer vision applications in robot arm UR-5:
   - Developed a DNN model for manipulation of the robot arm in 3D Space
   - Adapted model with image-based visual servoing optimization algorithm using Euclidean distance
-  - Developed feedback control system for avoiding stuck and lagging of robot-arm in space
+  - Developed feedback control system for avoiding stuck and lagging robot-arm in space
 
 ### Research Course Project | August 2022 - December 2022
 - Plain Chest X-ray synthesis using GANs
