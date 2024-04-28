@@ -4,7 +4,7 @@
 - Improving SAM (segmentation) models for 3D CV healthcare domain
 - Browser extension using open-source LLMs for fast email generation
 
-🌱 **I’m currently learning**LLM models, Java Spring Boot/React for FullStack website applications
+🌱 **I’m currently learning** SAM models, Java Spring Boot/React for FullStack website applications
 
 💬 **Ask me about** deep learning, computer vision, and the innovative applications of DL and medical imaging.
 
