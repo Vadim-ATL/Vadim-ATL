@@ -6,8 +6,6 @@ I'm a deep learning researcher with 1.5 years of experience in deep learning and
 I'm passionate about developing deep learning  applications (object detection and segmentation) for the biological/medical imaging domain.
 
 
-💬 **Ask me about** deep learning, computer vision, and the innovative applications of DL and medical imaging.
-
 📫 **How to reach me:** vadim.atlassov@nu.edu.kz
 
 
