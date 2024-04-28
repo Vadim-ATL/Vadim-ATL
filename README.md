@@ -5,9 +5,11 @@ I'm a deep learning researcher with 1.5 years of experience in deep learning and
 
 I'm passionate about developing deep learning  applications (object detection and segmentation) for the biological/medical imaging domain.
 
+
 💬 **Ask me about** deep learning, computer vision, and the innovative applications of DL and medical imaging.
 
 📫 **How to reach me:** vadim.atlassov@nu.edu.kz
+
 
 - **Areas of Expertise:** Deep Learning, Computer Vision, Object detection and localization: YOLO, R-CNN segmentation, GANs, CNNs
 
@@ -23,7 +25,6 @@ I'm passionate about developing deep learning  applications (object detection an
 - **Frameworks & Libraries**: PyTorch, Keras, Numpy, Pandas, Polars, Spring Boot, React, Angular
 - **Databases**: PostgreSQL, MongoDB
 - **Tools**: NGC Nvidia, Jupyter Notebook, Linux, Docker, Kubernetes, Git
-
 
 ### Languages
 - Russian (Native), English (B2), Kazakh (B2), Czech (B2)
