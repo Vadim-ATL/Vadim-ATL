@@ -1,5 +1,11 @@
 # Hi there, I'm Vadim Atlassov!
 
+## What you need to know about me:
+
+ - 🧠 Deep learning/computer vision researcher with 1.5 years of research experience
+ - 🎓 Open for PhD opportunities (deep learning, computer vision applications in medical domain)
+ - 🤝 Contact me via email at vadim.atlassov@nu.edu.kz or connect with me on[LinkedIn](www.linkedin.com/in/vadim-atlassov) 
+
 ## About Me
 I am a deep learning researcher with 1.5 years of experience in deep learning and computer vision applications in object detection. 
 
@@ -18,7 +24,7 @@ Feel free to contact me via email at vadim.atlassov@nu.edu.kz or connect with me
 
 ### 🎓 Education
 -  M.Sc. in Electrical and Computer Engineering, Nazarbayev University, May 2023
-  - **GPA**: 3.21/4.00
+  - GPA: 3.21/4.00
   - Thesis: Training Deep Neural Networks for Visual Servoing
 
 - 🌍 Academic exchange Year: B.Eng. in Electrical Engineering, Brno University of Technology, Czech Republic
