@@ -59,6 +59,6 @@ Feel free to contact me via email at vadim.atlassov@nu.edu.kz or connect with me
 
 👨‍💻 **I'm currently working on** 
 - Improving SAM (segmentation) models for 3D CV healthcare domain
-- Browser extension using open-source LLMs for fast email generation
+- Developing LLM-ChatBot for commerce
 
 🌱 **I’m currently learning** 3D CV models, Java Spring Boot/React for FullStack website applications
