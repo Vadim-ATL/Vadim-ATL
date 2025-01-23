@@ -4,7 +4,7 @@
 
  - 🧠 Deep learning/computer vision researcher with 1.5 years of research experience
  - 🎓 Open for PhD opportunities (deep learning, computer vision applications in medical domain)
- - 🤝 Contact me via email at vadim.atlassov@nu.edu.kz or connect with me on[LinkedIn](www.linkedin.com/in/vadim-atlassov) 
+ - 🤝 Contact me via email at [vadim.atlassov@nu.edu.kz](mailto:vadim.atlassov@nu.edu.kz]
 
 ## About Me
 I am a deep learning researcher with 1.5 years of experience in deep learning and computer vision applications in object detection. 
@@ -30,13 +30,13 @@ Feel free to contact me via email at vadim.atlassov@nu.edu.kz or connect with me
 - 🌍 Academic exchange Year: B.Eng. in Electrical Engineering, Brno University of Technology, Czech Republic
 
 ### 🔧 Technologies & Tools
-- **Languages**: Python, Java
-- **Frameworks & Libraries**: PyTorch, Keras, Numpy, Pandas, Polars, Spring Boot, React, Angular
-- **Databases**: PostgreSQL, MongoDB
+- **Languages**: Python, C, Rust
+- **Frameworks**: PyTorch, Keras, Numpy, Pandas, Polars, Tokio, GTK
+- **Databases**: PostgreSQL, OracleSQL, MongoDB
 - **Tools**: NGC Nvidia, Jupyter Notebook, Linux, Docker, Kubernetes, Git
 
 ### Languages
-- Russian (Native), English (B2), Kazakh (B2), Czech (B2)
+- Russian (Native), English (B2), German (A2), Kazakh (B2), Czech (B2)
 
 ## Research Experience
 
@@ -54,11 +54,3 @@ Feel free to contact me via email at vadim.atlassov@nu.edu.kz or connect with me
   - Evaluated models using quantitative metrics (FID and IS score)
   - Improved FID score and generated synthetic dataset for further research
 
-### 🤝 Connect with Me
-- [LinkedIn](www.linkedin.com/in/vadim-atlassov)
-
-👨‍💻 **I'm currently working on** 
-- Improving SAM (segmentation) models for 3D CV healthcare domain
-- Developing LLM-ChatBot for commerce
-
-🌱 **I’m currently learning** 3D CV models, Java Spring Boot/React for FullStack website applications
