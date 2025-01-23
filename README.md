@@ -4,7 +4,7 @@
 
  - 🧠 Deep learning/computer vision researcher with 1.5 years of research experience
  - 🎓 Open for PhD opportunities (deep learning, computer vision applications in medical domain)
- - 🤝 Contact me via email at [vadim.atlassov@nu.edu.kz](mailto:vadim.atlassov@nu.edu.kz]
+ - 🤝 Contact me via email at [vadim.atlassov@nu.edu.kz](mailto:vadim.atlassov@nu.edu.kz)
 
 ## About Me
 I am a deep learning researcher with 1.5 years of experience in deep learning and computer vision applications in object detection. 
