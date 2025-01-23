@@ -2,17 +2,17 @@
 
 ## What you need to know about me:
 
- - 🧠 Deep learning/computer vision researcher with 1.5 years of research experience
+ - 🧠 Deep learning/Computer vision researcher with extensive research experience
  - 🎓 Open for PhD opportunities (deep learning, computer vision applications in medical domain)
- - 🤝 Contact me via email at [vadim.atlassov@nu.edu.kz](mailto:vadim.atlassov@nu.edu.kz)
+ - 📩 Contact me via email at [vadim.atlassov@nu.edu.kz](mailto:vadim.atlassov@nu.edu.kz)
 
 ## About Me
-I am a deep learning researcher with 1.5 years of experience in deep learning and computer vision applications in object detection. 
+I am a MSc ECE researcher with extensive experience in deep learning and computer vision applications in object detection. 
 
-I am passionate about developing deep learning  applications (object detection and segmentation) for the biological/medical imaging domain.
+I am passionate about developing deep learning applications (object detection and segmentation) for the biological/medical imaging.
 
 ## Interests
-My academic interests lie at the intersection of deep learning, computer vision, and medical applications. I am particularly fascinated by the SAM application of segmentation models.
+My academic interests are deep learning, computer vision, and medical applications.
 
 ## Future Goals
 I actively seek opportunities to further my academic journey to a PhD program in deep learning and computer vision. I am enthusiastic about contributing to cutting-edge research and advancing the state-of-the-art in these fields.
