@@ -20,11 +20,11 @@ Deep Learning & Pruning Large Language Models (LLMs): Transformers (BERT, GPT, L
 – Pretraining, Fine-tuning, Prompt Engineering
 – Retrieval-Augmented Generation (RAG), Knowledge Distillation
 
-- **Python/SQL**: Python, PyTorch, Numpy, TensorFlow, CUDA, JAX, MLX, SQL, Pandas, Matplotlib
-- **Algorithms&DS**: ![LeetCode(https://leetcode-stats-api.herokuapp.com/user8713iN)
-- **Frameworks**: PyTorch, Keras, Numpy, Pandas, Polars, Tokio, GTK
-- **DB**: PostgreSQL, OracleSQL, MongoDB
+- **Python/GPU**: Python, PyTorch, Numpy, TensorFlow, CUDA, JAX, MLX, SQL, Pandas, Matplotlib
+- **DB**: ChromaDB, PostgreSQL, OracleSQL
 - **Tools**: NGC Nvidia, Jupyter Notebook/Lab, Linux, Git
+- **Low-level programming** Rust, C programming language
+- **DS&Algorithms**: [Leetcode](https://leetcode.com/u/user8713iN/)
 
 ### Main Research Project:
  - **Dynamic Token Pruning for Efficient LLM Inference**
@@ -45,8 +45,7 @@ mizing for coherence of summaries, achieved ROUGE-L-mid score of 21.3.
 - Designed LLM-powered RAG system for efficient retrieval of information from a ChromaDB
 vector database and contextual response generation.
 
-### Embedded Systems & Bare-metal
-– Rust, C programming language
+![LeetCode Stats]https://leetcode-stats.vercel.app/api?username=user8713iN&theme=Dark
 
 ### Languages
 – Russian (Native), English (IELTS 7.0), Kazakh (B2), Czech (B2), German (A1)
