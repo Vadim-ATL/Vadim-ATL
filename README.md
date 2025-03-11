@@ -46,7 +46,8 @@ mizing for coherence of summaries, achieved ROUGE-L-mid score of 21.3.
 vector database and contextual response generation.
 
 ### Languages
-– Russian (Native)
+
+- Russian (Native)
 - English (IELTS 7.0)
 - German (A1)
 - Czech (B2)
