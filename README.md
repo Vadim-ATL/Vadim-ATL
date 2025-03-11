@@ -1,13 +1,7 @@
 # Hi there, I'm Vadim Atlassov!
 
  - Open for PhD opportunities: my [CV](https://github.com/Vadim-ATL/Vadim-ATL/blob/main/CV.pdf) (Deep Learning, NLP,LLMs/Reinforcement Learning for LLM agents)
- - Contact me via email at [vadim.atlassov@nu.edu.kz](mailto:vadim.atlassov@nu.edu.kz)
-
-## Interests
-
-## Contact
-Email: vadim.atlassov@nu.edu.kz
-Linkedin: [LinkedIn](www.linkedin.com/in/vadim-atlassov)
+ - Contact me via email at [vadim.atlassov@nu.edu.kz](mailto:vadim.atlassov@nu.edu.kz) or [LinkedIn](www.linkedin.com/in/vadim-atlassov)
 
 - **Areas of Expertise:**
 Deep Learning & Pruning Large Language Models (LLMs): Transformers (BERT, GPT, LLaMA), Reinforcement Learning (RL): Policy Optimization, Model-Based RL, Reward Engineering
@@ -23,21 +17,8 @@ Deep Learning & Pruning Large Language Models (LLMs): Transformers (BERT, GPT, L
 - **Databases**: PostgreSQL, OracleSQL, MongoDB
 - **Tools**: NGC Nvidia, Jupyter Notebook/Lab, Linux, Git
 
-### NLP and LLM
-– Hugging Face Transformers, SentencePiece, Tokenizers, NLTK, SpaCy, FastText, Gensim
-– Large Language Models (LLMs), Transformers (BERT, GPT, LLaMA)
-– Tokenization, Text Embeddings, Attention Mechanisms
-– Pretraining, Fine-tuning, Prompt Engineering
-– Retrieval-Augmented Generation (RAG), Knowledge Distillation
-
-### Embedded Systems & Bare-metal
-– Rust, C programming language
-
-### Languages
-– Russian (Native), English (IELTS 7.0), Kazakh (B2), Czech (B2), German (A1)
-
 ### Main Research Project:
-
+ - **Dynamic Token Pruning for Efficient LLM Inference**
 
 ### Research Assistant | July 2022 - May 2023
 - [ALARIS Lab](https://www.alaris.kz/), School of Engineering and Digital Sciences, NU Astana, Kazakhstan
@@ -54,4 +35,17 @@ velopment for text summarization:
 mizing for coherence of summaries, achieved ROUGE-L-mid score of 21.3.
 - Designed LLM-powered RAG system for efficient retrieval of information from a ChromaDB
 vector database and contextual response generation.
+
+### NLP and LLM
+– Hugging Face Transformers, SentencePiece, Tokenizers, NLTK, SpaCy, FastText, Gensim
+– Large Language Models (LLMs), Transformers (BERT, GPT, LLaMA)
+– Tokenization, Text Embeddings, Attention Mechanisms
+– Pretraining, Fine-tuning, Prompt Engineering
+– Retrieval-Augmented Generation (RAG), Knowledge Distillation
+
+### Embedded Systems & Bare-metal
+– Rust, C programming language
+
+### Languages
+– Russian (Native), English (IELTS 7.0), Kazakh (B2), Czech (B2), German (A1)
 
