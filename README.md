@@ -46,7 +46,11 @@ mizing for coherence of summaries, achieved ROUGE-L-mid score of 21.3.
 vector database and contextual response generation.
 
 ### Languages
-– Russian (Native), English (IELTS 7.0), Kazakh (B2), Czech (B2), German (A1)
+– Russian (Native)
+- English (IELTS 7.0)
+- German (A1)
+- Czech (B2)
+- Kazakh (B2)
 
 ### LeetCode
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Vadim-ATL&theme=Dark)
