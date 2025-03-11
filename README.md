@@ -1,6 +1,6 @@
 # Hi there, I'm Vadim Atlassov!
 
- - Open for PhD opportunities: CV (Deep Learning, NLP,LLMs/Reinforcement Learning)
+ - Open for PhD opportunities: my [CV](https://github.com/Vadim-ATL/Vadim-ATL/blob/main/CV.pdf) (Deep Learning, NLP,LLMs/Reinforcement Learning for LLM agents)
  - Contact me via email at [vadim.atlassov@nu.edu.kz](mailto:vadim.atlassov@nu.edu.kz)
 
 ## Interests
