@@ -14,11 +14,11 @@ Deep Learning & Pruning Large Language Models (LLMs): Transformers (BERT, GPT, L
 ## Skills
 
 ### NLP and LLM
-– Hugging Face Transformers, SentencePiece, Tokenizers, NLTK, SpaCy, FastText, Gensim
-– Large Language Models (LLMs), Transformers (BERT, GPT, LLaMA)
-– Tokenization, Text Embeddings, Attention Mechanisms
-– Pretraining, Fine-tuning, Prompt Engineering
-– Retrieval-Augmented Generation (RAG), Knowledge Distillation
+- Hugging Face Transformers, SentencePiece, Tokenizers, NLTK, SpaCy, FastText, Gensim
+- Large Language Models (LLMs), Transformers (BERT, GPT, LLaMA)
+- Tokenization, Text Embeddings, Attention Mechanisms
+- Pretraining, Fine-tuning, Prompt Engineering
+- Retrieval-Augmented Generation (RAG), Knowledge Distillation
 
 ### Programming/Tech
 - **Python/GPU**: Python, PyTorch, Numpy, TensorFlow, CUDA, JAX, MLX, SQL, Pandas, Matplotlib
