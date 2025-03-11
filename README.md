@@ -48,10 +48,10 @@ Deep Learning & Pruning Large Language Models (LLMs): Transformers (BERT, GPT, L
   - Implemented a feedback control system that reduced movement lag and tilt in the robot arm.
 
 ### Research Projects: November, 2024 - Present
-•  Custom Large language model (LLMs) with retrieval-augmented generation (RAG) and custom model de-
+- Custom Large language model (LLMs) with retrieval-augmented generation (RAG) and custom model de-
 velopment for text summarization:
-• Modified sentiment analysis model DistilBERT to Seq2Seq model with a decoder for abstractive text summarization, opti-
+- Modified sentiment analysis model DistilBERT to Seq2Seq model with a decoder for abstractive text summarization, opti-
 mizing for coherence of summaries, achieved ROUGE-L-mid score of 21.3.
-• Designed LLM-powered RAG system for efficient retrieval of information from a ChromaDB
+- Designed LLM-powered RAG system for efficient retrieval of information from a ChromaDB
 vector database and contextual response generation.
 
