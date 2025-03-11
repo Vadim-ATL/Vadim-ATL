@@ -45,7 +45,7 @@ mizing for coherence of summaries, achieved ROUGE-L-mid score of 21.3.
 - Designed LLM-powered RAG system for efficient retrieval of information from a ChromaDB
 vector database and contextual response generation.
 
-![LeetCode Stats]https://leetcode-stats.vercel.app/api?username=user8713iN&theme=Dark
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=user8713iN&theme=Dark)
 
 ### Languages
 – Russian (Native), English (IELTS 7.0), Kazakh (B2), Czech (B2), German (A1)
