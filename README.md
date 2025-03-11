@@ -11,16 +11,16 @@ Deep Learning & Pruning Large Language Models (LLMs): Transformers (BERT, GPT, L
 -  GPA: 3.21/4.00
 -  Academic exchange Year: B.Eng. in Electrical Engineering, Brno University of Technology, Czech Republic
 
-### Skills
+## Skills
 
-## NLP and LLM
+### NLP and LLM
 – Hugging Face Transformers, SentencePiece, Tokenizers, NLTK, SpaCy, FastText, Gensim
 – Large Language Models (LLMs), Transformers (BERT, GPT, LLaMA)
 – Tokenization, Text Embeddings, Attention Mechanisms
 – Pretraining, Fine-tuning, Prompt Engineering
 – Retrieval-Augmented Generation (RAG), Knowledge Distillation
 
-## Programming/Tech
+### Programming/Tech
 - **Python/GPU**: Python, PyTorch, Numpy, TensorFlow, CUDA, JAX, MLX, SQL, Pandas, Matplotlib
 - **DB**: ChromaDB, PostgreSQL, OracleSQL
 - **Tools**: NGC Nvidia, Jupyter Notebook/Lab, Linux, Git
