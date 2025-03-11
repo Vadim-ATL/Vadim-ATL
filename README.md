@@ -20,6 +20,7 @@ Deep Learning & Pruning Large Language Models (LLMs): Transformers (BERT, GPT, L
 – Pretraining, Fine-tuning, Prompt Engineering
 – Retrieval-Augmented Generation (RAG), Knowledge Distillation
 
+## Programming/Tech
 - **Python/GPU**: Python, PyTorch, Numpy, TensorFlow, CUDA, JAX, MLX, SQL, Pandas, Matplotlib
 - **DB**: ChromaDB, PostgreSQL, OracleSQL
 - **Tools**: NGC Nvidia, Jupyter Notebook/Lab, Linux, Git
