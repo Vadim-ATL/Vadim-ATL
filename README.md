@@ -12,9 +12,18 @@ Deep Learning & Pruning Large Language Models (LLMs): Transformers (BERT, GPT, L
 -  Academic exchange Year: B.Eng. in Electrical Engineering, Brno University of Technology, Czech Republic
 
 ### Skills
-- **Programming**: Python, PyTorch, Numpy, TensorFlow, CUDA, JAX, MLX, SQL, Pandas, Matplotlib
+
+## NLP and LLM
+– Hugging Face Transformers, SentencePiece, Tokenizers, NLTK, SpaCy, FastText, Gensim
+– Large Language Models (LLMs), Transformers (BERT, GPT, LLaMA)
+– Tokenization, Text Embeddings, Attention Mechanisms
+– Pretraining, Fine-tuning, Prompt Engineering
+– Retrieval-Augmented Generation (RAG), Knowledge Distillation
+
+- **Python/SQL**: Python, PyTorch, Numpy, TensorFlow, CUDA, JAX, MLX, SQL, Pandas, Matplotlib
+- **Algorithms&DS**: ![LeetCode(https://leetcode-stats-api.herokuapp.com/user8713iN)
 - **Frameworks**: PyTorch, Keras, Numpy, Pandas, Polars, Tokio, GTK
-- **Databases**: PostgreSQL, OracleSQL, MongoDB
+- **DB**: PostgreSQL, OracleSQL, MongoDB
 - **Tools**: NGC Nvidia, Jupyter Notebook/Lab, Linux, Git
 
 ### Main Research Project:
@@ -35,13 +44,6 @@ velopment for text summarization:
 mizing for coherence of summaries, achieved ROUGE-L-mid score of 21.3.
 - Designed LLM-powered RAG system for efficient retrieval of information from a ChromaDB
 vector database and contextual response generation.
-
-### NLP and LLM
-– Hugging Face Transformers, SentencePiece, Tokenizers, NLTK, SpaCy, FastText, Gensim
-– Large Language Models (LLMs), Transformers (BERT, GPT, LLaMA)
-– Tokenization, Text Embeddings, Attention Mechanisms
-– Pretraining, Fine-tuning, Prompt Engineering
-– Retrieval-Augmented Generation (RAG), Knowledge Distillation
 
 ### Embedded Systems & Bare-metal
 – Rust, C programming language
