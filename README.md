@@ -12,15 +12,6 @@
   GPA: 3.21 / 4.00  
 - **B.Eng., Electrical Engineering (Exchange Year)**, Brno University of Technology, Czech Republic  
 
-## Skills
-
-### NLP and LLM
-- Hugging Face Transformers, SentencePiece, Tokenizers, NLTK, SpaCy, FastText, Gensim
-- Large Language Models (LLMs), Transformers (BERT, GPT, LLaMA)
-- Tokenization, Text Embeddings, Attention Mechanisms
-- Pretraining, Fine-tuning, Prompt Engineering
-- Retrieval-Augmented Generation (RAG), Knowledge Distillation
-
 ## Technical Skills
 
 **Deep Learning & Generative Modeling**
