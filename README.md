@@ -1,4 +1,4 @@
-# Medical AI Researcher | Controllable Diffusion Models | Image Generation & Segmentation | Vision-Language Models
+# Medical AI Researcher | Controllable Diffusion Models | Image Generation & Segmentation
 
  - Open for PhD opportunities: my [CV](https://github.com/Vadim-ATL/Vadim-ATL/blob/main/CV.pdf) (Image Generation models, Image Diffusion)
  - Contact me via email at [vadim.atlassov@nu.edu.kz](mailto:vadim.atlassov@nu.edu.kz) or [LinkedIn](www.linkedin.com/in/vadim-atlassov)
