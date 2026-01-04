@@ -1,15 +1,16 @@
-# Vadim Atlassov | DL Researcher in CV, Gen.models
+# Vadim Atlassov | Deep Learning Researcher — Generative Models & Diffusion
 
  - Open for PhD opportunities: my [CV](https://github.com/Vadim-ATL/Vadim-ATL/blob/main/CV.pdf) (Image Generation models, Image Diffusion)
  - Contact me via email at [vadim.atlassov@nu.edu.kz](mailto:vadim.atlassov@nu.edu.kz) or [LinkedIn](www.linkedin.com/in/vadim-atlassov)
 
-- **Areas of Expertise:**
-Image Generation models, Image Diffusion
+## Areas of Expertise
+- Generative Models, Latent Diffusion, Controllable Image Generation  
+- Representation Learning in Medical Imaging  
 
-### Education
--  M.Sc. in Electrical and Computer Engineering, Nazarbayev University, May 2023
--  GPA: 3.21/4.00
--  Academic exchange Year: B.Eng. in Electrical Engineering, Brno University of Technology, Czech Republic
+## Education
+- **M.Sc., Electrical and Computer Engineering**, Nazarbayev University, May 2023  
+  GPA: 3.21 / 4.00  
+- **B.Eng., Electrical Engineering (Exchange Year)**, Brno University of Technology, Czech Republic  
 
 ## Skills
 
@@ -20,46 +21,46 @@ Image Generation models, Image Diffusion
 - Pretraining, Fine-tuning, Prompt Engineering
 - Retrieval-Augmented Generation (RAG), Knowledge Distillation
 
-### Programming/Tech
-- **Python/GPU**: Python, PyTorch, Numpy, TensorFlow, CUDA, JAX, Pandas, Matplotlib
-- **DB**: OracleSQL
-- **Tools**: NGC Nvidia, Jupyter Notebook/Lab, Linux, Git
-- **Low-level programming** Rust, C programming language
-- **DS&Algorithms**: [Leetcode](https://leetcode.com/u/user8713iN/)
+## Technical Skills
 
-### Main Research Project:
- - **Latent-Aligned Diffusion for Controllable Chest X-ray Synthesis**
- - **DenseDiff: Virtual Digital Subtraction of Dense Tissue via Conditional Latent Diffusion**
- - **Latent Diffusion Models for Conditional Mammogram Synthesis: Toward Controllable Medical Image Generation**
+**Deep Learning & Generative Modeling**
+- PyTorch, CUDA, JAX (basic), TensorFlow (legacy)  
+- Diffusion Models, Latent Variable Models  
+- CNNs, Transformers (vision-focused)  
+- Representation Learning, Controllable Generation  
 
-### Researcher | April 2024 - Current
-**[HCI Lab](https://www.researchgate.net/lab/Min-Ho-Lee-Lab-Minho-Lee)**  
-  - Supervisor: [Professor Minho Lee](https://scholar.google.com/citations?user=ipi5AVsAAAAJ&hl=ko)
-  - School of Engineering and Digital Sciences, Nazarbayev University, Astana, Kazakhstan
+**Programming & Tools**
+- Python, NumPy, Pandas, Matplotlib  
+- Linux, Git, NVIDIA NGC, Jupyter  
+- Rust, C (low-level programming)
 
-### Research Projects: November, 2024 - January 2025
-- Custom Large language model (LLMs) with retrieval-augmented generation (RAG) and custom model development for text summarization:
-- Modified sentiment analysis model DistilBERT to Seq2Seq model with a decoder for abstractive text summarization, opti-
-mizing for coherence of summaries, achieved ROUGE-L-mid score of 21.3.
-- Designed LLM-powered RAG system for efficient retrieval of information from a ChromaDB
-vector database and contextual response generation.
+## Main Research Projects
+- **Latent-Aligned Diffusion for Controllable Chest X-ray Synthesis**  
+- **DenseDiff: Virtual Digital Subtraction of Dense Tissue via Conditional Latent Diffusion**  
+- **Latent Diffusion Models for Conditional Mammogram Synthesis**  
 
-### Research Assistant | July 2022 - May 2023
-- [ALARIS Lab](https://www.alaris.kz/), School of Engineering and Digital Sciences, NU Astana, Kazakhstan
-    Supervisor: Professor Almas Shintemirov, field: deep learning and computer vision applications in robot arm UR-5:
-  - Developed a CNN model for controlling a robot arm in 3D space (6 DoF joints manipulation).
-  - Integrated an IBVS (image-based visual servoing) optimization algorithm, reducing pose error to 10.2mm
-    (translation) and 2.1° (rotation) in a multi-input/multi-output setup.
-  - Implemented a feedback control system that reduced movement lag and tilt in the robot arm.
+---
 
+## Research Experience
 
-### Languages
+**Researcher | HCI Lab, Nazarbayev University | April 2024 – Present**  
+Supervisor: [Prof. Minho Lee](https://scholar.google.com/citations?user=ipi5AVsAAAAJ&hl=ko)  
+- Diffusion-based generative models for medical image synthesis  
+- Focus on latent-space controllability and alignment across conditions  
 
-- Russian (Native)
-- English (IELTS 7.0)
-- German (A1)
-- Czech (B2)
-- Kazakh (B2)
+**Research Assistant | ALARIS Lab, Nazarbayev University | July 2022 – May 2023**  
+Supervisor: Prof. Almas Shintemirov  
+- Developed CNN perception system for 6-DoF robotic arm control (UR-5)  
+- Integrated IBVS (image-based visual servoing), reducing pose error to 10.2 mm / 2.1°  
+- Implemented closed-loop visual feedback control  
 
-### LeetCode
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Vadim-ATL&theme=Dark)
+---
+
+## Languages
+- Russian (Native)  
+- English (IELTS 7.0)  
+- Czech (B2)  
+- Kazakh (B2)  
+- German (A1)  
+
+---
