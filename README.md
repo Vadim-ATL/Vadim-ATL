@@ -40,7 +40,7 @@ Supervisor: [Prof. Minho Lee](https://scholar.google.com/citations?user=ipi5AVsA
 - Focus on latent-space controllability and alignment across conditions  
 
 **Research Assistant | ALARIS Lab, Nazarbayev University | July 2022 – May 2023**  
-Supervisor: Prof. Almas Shintemirov  
+Supervisor: [Prof. Almas Shintemirov](https://scholar.google.com/citations?user=D7WWMgEAAAAJ&hl=ru&oi=ao)  
 - Developed CNN perception system for 6-DoF robotic arm control (UR-5)  
 - Integrated IBVS (image-based visual servoing), reducing pose error to 10.2 mm / 2.1°  
 - Implemented closed-loop visual feedback control  
