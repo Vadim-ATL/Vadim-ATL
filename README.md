@@ -1,4 +1,4 @@
-# Medical AI Researcher | Generative Models & Diffusion
+# Image Generative AI Researcher | Generative Models & Diffusion
 
  - Open for PhD opportunities: my [CV](https://github.com/Vadim-ATL/Vadim-ATL/blob/main/CV.pdf) (Image Generation models, Image Diffusion)
  - Contact me via email at [vadim.atlassov@nu.edu.kz](mailto:vadim.atlassov@nu.edu.kz) or [LinkedIn](www.linkedin.com/in/vadim-atlassov)
@@ -48,10 +48,10 @@ Supervisor: Prof. Almas Shintemirov
 ---
 
 ## Languages
+- English (IELTS 7.0)
+- German (A1)  
 - Russian (Native)  
-- English (IELTS 7.0)  
 - Czech (B2)  
 - Kazakh (B2)  
-- German (A1)  
 
 ---
