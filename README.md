@@ -8,8 +8,7 @@
 - Representation Learning in Medical Imaging  
 
 ## Education
-- **M.Sc., Electrical and Computer Engineering**, Nazarbayev University, May 2023  
-  GPA: 3.21 / 4.00  
+- **M.Sc., Electrical and Computer Engineering**, Nazarbayev University
 - **B.Eng., Electrical Engineering (Exchange Year)**, Brno University of Technology, Czech Republic  
 
 ## Technical Skills
