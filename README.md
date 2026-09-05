@@ -47,7 +47,7 @@ Supervisor: [Prof. Almas Shintemirov](https://scholar.google.com/citations?user=
 ---
 
 ## Languages
-- English (IELTS 7.0)
+- English (IELTS 8.0)
 - German (A1)  
 - Russian (Native)  
 - Czech (B2)  
